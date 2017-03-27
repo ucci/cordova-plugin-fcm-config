@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "19733740247",
+    "firebase_url": "https://aena-6a4e5.firebaseio.com",
+    "project_id": "aena-6a4e5",
+    "storage_bucket": "aena-6a4e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19733740247:android:961fd5758407026d",
+        "android_client_info": {
+          "package_name": "jp.co.aena.apps.member"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19733740247-guqphi1fn6s217etjf8cq0b2vmbvjl05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuXc8dQ2R4Gu3U2BT2VEBEv6RxzqFLFYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
